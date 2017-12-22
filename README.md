@@ -14,7 +14,8 @@ If you find the paper and/or code useful, the best way to thank me is by citing 
 
 [Model 1 - grid approximation](https://github.com/drbenvincent/bayesian2afc-julia/blob/master/model1-grid-approx.ipynb)
 
-Model 1 - MCMC
+[Model 1 - custom MCMC](https://github.com/drbenvincent/bayesian2afc-julia/blob/master/model1-custom-mcmc.ipynb)
+
 
 Model 1 - MCMC with JAGS
 
