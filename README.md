@@ -12,7 +12,7 @@ If you find the paper and/or code useful, the best way to thank me is by citing 
 
 ## Links to code in Jupyter notebooks
 
-[Model 1 - grid approximation](https://github.com/drbenvincent/bayesian2afc-julia/blob/master/Model1%20-%20grid%20approximation.ipynb)
+[Model 1 - grid approximation](https://github.com/drbenvincent/bayesian2afc-julia/blob/master/model1-grid-approx.ipynb)
 
 Model 1 - MCMC
 
