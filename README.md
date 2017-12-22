@@ -19,6 +19,8 @@ If you find the paper and/or code useful, the best way to thank me is by citing 
 
 Model 1 - MCMC with JAGS
 
+Model 1 - MCMC with STAN
+
 Model 2
 
 Model 3
