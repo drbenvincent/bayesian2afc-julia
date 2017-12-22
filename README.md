@@ -10,17 +10,4 @@ If you find the paper and/or code useful, the best way to thank me is by citing 
 
 # This work is an in-progress translation from the original [Matlab repository](https://github.com/drbenvincent/bayesian2afc) to Julia.
 
-## Links to code in Jupyter notebooks
-
-[Model 1 - grid approximation](https://github.com/drbenvincent/bayesian2afc-julia/blob/master/model1-grid-approx.ipynb)
-
-[Model 1 - custom MCMC](https://github.com/drbenvincent/bayesian2afc-julia/blob/master/model1-custom-mcmc.ipynb)
-
-
-Model 1 - MCMC with JAGS
-
-Model 1 - MCMC with STAN
-
-Model 2
-
-Model 3
+See the code in the Jupyter Noteobooks (ie the `.ipynb` files)
